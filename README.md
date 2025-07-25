@@ -84,7 +84,7 @@ Me chamo Nailton Dias Junior, tenho 19 anos e sou natural do Paraná.
 <br>
 Também estou por aqui:
 <div>
-  <a href="https://www.linkedin.com/in/patyfreitasbr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></>
+  <a href="https://www.linkedin.com/in/nailton-dias/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></>
 
   </div> 
 
