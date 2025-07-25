@@ -67,6 +67,23 @@ Me chamo Nailton Dias Junior, tenho 19 anos e sou natural do Paraná.
 <br/>
 <br/>
 
+</div>
+
+<p>Ferramentas:</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height="40" alt="google"/>
+
+   <img width="7" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="7" /> 
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
+
+<br/>
+<br/>
+
 ### 📊 Estatísticas
 
 <p>
