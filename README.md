@@ -40,14 +40,13 @@ Me chamo Nailton Dias Junior, tenho 19 anos e sou natural do Paraná.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
 <img 
-    align="left" 
-    alt="TypeScript"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    alt="TypeScript" 
     title="TypeScript" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    style="padding-right: 10px; float: left;" 
+/>
 
 
 
